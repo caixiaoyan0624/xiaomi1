@@ -810,7 +810,7 @@ a{
 	height: 300px;
 }
 .main .neikuan .zhineng .bottom .list:nth-child(6){
-	background-image: url('../img/zhineng666.jpg.');
+	background-image: url('../img/zhineng666.jpg');
 	background-size: 234px 300px;
 }
 
